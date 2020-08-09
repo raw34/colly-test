@@ -3,6 +3,7 @@
 .idea/
 .vscode/
 *.iml
+*.log
 
 # Binaries for programs and plugins
 *.exe
